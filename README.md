@@ -51,9 +51,6 @@ Para mais informações e para acompanhar meu trabalho, siga-me nas redes sociai
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-
-![Snake animation](https://github.com/leandrolti/leandrolti/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 Contato
 Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões, melhorias e colaborações. Vamos juntos tornar a tecnologia da informação acessível e fascinante para todos!
 
