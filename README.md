@@ -3,9 +3,14 @@
 
 Sou professor de tecnologia da informação e orientador de estágio desde 2009. Tenho uma vasta experiência em diversas áreas da TI e sou apaixonado por compartilhar conhecimento e ajudar iniciantes a entrarem no mundo da tecnologia.
 
+---
+
 ## 📺 Meu Canal no YouTube
 Tenho um canal no YouTube com o objetivo de introduzir a tecnologia da informação para iniciantes na área. Confira meus vídeos e tutoriais:
-[YouTube - LTI Treinamento](https://www.youtube.com/ltitreinamento)
+
+[![YouTube - LTI Treinamento](https://img.shields.io/badge/YouTube-LTI_Treinamento-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ltitreinamento)
+
+---
 
 ## 🌐 Redes Sociais
 Para mais informações e para acompanhar meu trabalho, siga-me nas redes sociais:
@@ -13,6 +18,8 @@ Para mais informações e para acompanhar meu trabalho, siga-me nas redes sociai
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrocostapro/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrotecnologia/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ltitreinamento)
+
+---
 
 ## 💻 Habilidades
 
@@ -24,14 +31,13 @@ Para mais informações e para acompanhar meu trabalho, siga-me nas redes sociai
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Bibliotecas e Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Sistemas Operacionais
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -45,19 +51,17 @@ Para mais informações e para acompanhar meu trabalho, siga-me nas redes sociai
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-<div>
-<a href="https://github.com/leandrolti">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolti&layout=compact&langs_count=7&theme=github_dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+---
+
+## 📊 GitHub Stats
+<div style="display: flex; justify-content: space-between;">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolti&layout=compact&langs_count=7&theme=github_dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
+
+---
 
 ## 📫 Contato
 Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões, melhorias e colaborações. Vamos juntos tornar a tecnologia da informação acessível e fascinante para todos!
 
----
 
-
-<!---
-leandrolti/leandrolti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
