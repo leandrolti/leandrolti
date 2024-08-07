@@ -54,10 +54,8 @@ Para mais informações e para acompanhar meu trabalho, siga-me nas redes sociai
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolti&layout=compact&langs_count=7&theme=github_dark"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
+
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrolti&show_icons=true&theme=github_dark)
 
 ---
 
